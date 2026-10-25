@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "NALAM",
+    "slug": "nalam-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.nalam.safety"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "046b39cb-dc57-41c1-be2c-dc1d130d1fec"
+      }
+    }
+  }
+}
